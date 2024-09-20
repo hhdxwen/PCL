@@ -1,6 +1,10 @@
 # Personalized Clustering via Targeted Representation Learning
 
-PyTorch implementation of ["Personalized Clustering via Targeted Representation Learning"]
+PyTorch implementation of ["Personalized Clustering via Targeted Representation Learning"].
+
+This repository contains the ./index.html webpage, which serves as a concise introduction to the methods, experimental results, and data sharing aspects of our research paper. The webpage is designed to offer a clear and accessible summary of our work, enabling readers to quickly grasp the core concepts and findings of the study.
+
+The ./assets folder includes all the necessary materials and resources used by the webpage, such as images, stylesheets, and other media files. These assets ensure the webpage is visually informative and engaging, enhancing the overall presentation of the research content.
 
 ## 1. Requirements
 
