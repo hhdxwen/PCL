@@ -2,7 +2,9 @@
 
 PyTorch implementation of ["Personalized Clustering via Targeted Representation Learning"].
 
-This repository contains the ./index.html webpage, which serves as a concise introduction to the methods, experimental results, and data sharing aspects of our research paper. The webpage is designed to offer a clear and accessible summary of our work, enabling readers to quickly grasp the core concepts and findings of the study.
+This repository contains the index.html webpage, which serves as a concise introduction to the methods, experimental results, and data sharing aspects of our research paper. The webpage is designed to offer a clear and accessible summary of our work, enabling readers to quickly grasp the core concepts and findings of the study.
+
+For the convenience of readers who prefer a document format, we have included index.pdf, which is the PDF version of the HTML webpage. This PDF provides the same information in a format that is easy to download and view offline.
 
 The ./assets folder includes all the necessary materials and resources used by the webpage, such as images, stylesheets, and other media files. These assets ensure the webpage is visually informative and engaging, enhancing the overall presentation of the research content.
 
