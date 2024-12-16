@@ -1,6 +1,10 @@
 # Personalized Clustering via Targeted Representation Learning
 
-PyTorch implementation of ["Personalized Clustering via Targeted Representation Learning"].
+PyTorch implementation of ["Personalized Clustering via Targeted Representation Learning"] (AAAI-25).
+
+The conference paper:https://test.com.
+
+For Appendix of the paper, you can get [here](). 
 
 This repository contains the index.html webpage, which serves as a concise introduction to the methods, experimental results, and data sharing aspects of our research paper. The webpage is designed to offer a clear and accessible summary of our work, enabling readers to quickly grasp the core concepts and findings of the study.
 
