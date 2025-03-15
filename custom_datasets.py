@@ -33,26 +33,3 @@ class ImageNet(Dataset):
 
     def __len__(self):
         return len(self.data)
-# from torch.utils.data import Dataset, DataLoader
-# from modules import transform
-# import torchvision
-# import numpy
-# import numpy as np
-
-# class ImageNet(Dataset):
-#     def __init__(self, path, image_size, seed):
-#         np.random.seed(seed)
-#         self.imagenet = torchvision.datasets.ImageFolder(
-#                                 root=path,
-#                                 transform=transform.Transforms(size=image_size, blur=True),
-#                             )
-#         self.random_index = np.random.permutation(len(self.imagenet))
-
-#     def __getitem__(self, index):
-#         if isinstance(index, numpy.float64):
-#             index = index.astype(numpy.int64)
-
-#         return  self.imagenet[self.random_index[index]]
-
-#     def __len__(self):
-#         return len(self.imagenet)
